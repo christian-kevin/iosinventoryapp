@@ -5,9 +5,7 @@
 //  Created by Kevin Christian on 11/26/16.
 //  Copyright © 2016 Kevin Christian. All rights reserved.
 //
-// commit test
-// haha
-//hoho
+
 import UIKit
 
 class MasterViewController: UITableViewController {
